@@ -10,7 +10,7 @@ namespace ConsoleGithub
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("dsdfa");
+            Console.WriteLine("ss");
         }
     }
 }
